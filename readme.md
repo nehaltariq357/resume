@@ -1,1 +1,1 @@
-deployed versel URL = https://static-resume-me9g.vercel.app/
+deployed versel URL = https://resume-sooty-nine.vercel.app/
